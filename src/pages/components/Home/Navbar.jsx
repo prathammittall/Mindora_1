@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
+
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
